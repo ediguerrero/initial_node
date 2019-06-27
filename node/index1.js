@@ -11,6 +11,7 @@ function milti(x1, x2){
 function divi(x1 , x2){
 if (x2 == 0){
 console.log('no se puede');
+console.log('escriba bien ');
 }else {
 return x1/x2;
 
